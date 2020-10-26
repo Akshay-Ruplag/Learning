@@ -1,7 +1,7 @@
 ## Learn data science step by step in 2 months
 ----------------------------------------------
 
-Following is a schedule to learn data science step by step considering **2-4 hours** of dedicated, focused study every single day. This program is perfect for beginners with no knowledge of data science and programming.
+Following is a schedule to learn data science step by step considering **2-4 hours** of dedicated, focused study every single day.
 
 ### Week 1: Excel and Statistics
 
